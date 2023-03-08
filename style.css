@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+body{
+    background-image: url(background.png);
+    background-size: cover;
+    margin: 60px;
+   
+}
+header{
+    color: #fff;
+    
+   
+   
+}
+.INFO{
+    gap: 16px;
+    display: flex;
+}
+
+main{
+    color: #fff;
+   display:flex
+}
+
+.redes{
+  display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+
+}
+
